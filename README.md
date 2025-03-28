@@ -57,7 +57,7 @@ Once downloaded, you can run the model in your terminal by running
 
 The image below shows a sample response from a query through the terminal after you have run the above command. As you can see, the response also shows the 'Thinking' process of the model. 
 
-[screenshot](./hackathon-boilerplate/frontend/public/screenshot.png)
+[screenshot](./Atlantec-AI-Challenge/hackathon-boilerplate/frontend/public/screenshot.png)
 
 ## Running the application 
 
@@ -69,7 +69,7 @@ This will start the application.
 
 Open your browser and navigate to http://localhost:5173. You should see the application running. 
 
-[screenshot of of web app](./hackathon-boilerplate/frontend/public/screenshot-web-app.png)
+[screenshot of web app](./Atlantec-AI-Challenge/hackathon-boilerplate/frontend/public/screenshot-web-app.png)
 
 ## How to use the application 
 
