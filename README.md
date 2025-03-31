@@ -38,14 +38,17 @@ Once you have installed Ollama, check that it is installed by running
 
 If you see a version, it was installed successfully. 
 
-To start running ollama, run 
+To start running ollama, open a new terminal and run:
 
 `ollama serve`
+
 
 ## How to use Ollama
 
 Ollama is a tool that allows you to run local LLMs. To get started, I would recommend downloading a model such as 
 deepseek-r1:1.5b, which is a 1.5 billion parameter model that is a language model. It typically takes up about 1.0GB of memory and will run on most local machines. 
+
+Open a new terminal window.
 
 To download the model, run 
 
@@ -79,7 +82,9 @@ a question through the input form.
 
 ## Can I use other tools or LLMs?
 
-Of course! This is a hackathon after all. The information above is just a starting point. 
+Of course! You are free to use any services that you wish during the hackathon. 
+
+The information here is just a simple guide to act as a starting point if needed. 
 
 There are other tools for running models locally, some of the better-known ones are: 
 
